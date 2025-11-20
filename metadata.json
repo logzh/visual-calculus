@@ -1,0 +1,5 @@
+{
+  "name": "Visual Calculus AI",
+  "description": "An interactive, visual introduction to calculus concepts (Derivatives & Integrals) powered by Google Gemini for real-time tutoring.",
+  "requestFramePermissions": []
+}
